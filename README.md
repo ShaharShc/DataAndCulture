@@ -10,6 +10,8 @@ In order to achieve this goal we will perform several steps:
 1. Data Preprocessing; cleaning and completing missing data.
 2. Combining the data set with additional sources; Wikipedia, twitter and more.
 3. Data Visualization.
+4. Sentiment Analysis.
+5. Explaining changes with events.
 
 ## References
 <a id="1">[1]</a> 
