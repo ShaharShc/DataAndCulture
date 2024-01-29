@@ -10,3 +10,7 @@ In order to achieve this goal we will perform several steps:
 1. Data Preprocessing; cleaning and completing missing data.
 2. Combining the data set with additional sources; Wikipedia, twitter and more.
 3. Data Visualization.
+
+## References
+<a id="1">[1]</a> 
+Annamoradnejad, Issa; Annamoradnejad, Rahimberdi (2022), “Age dataset: A structured general-purpose dataset on life, work, and death of 1.22 million distinguished people”, In Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM), doi: 10.36190/2022.82
