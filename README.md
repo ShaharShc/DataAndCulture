@@ -1,7 +1,7 @@
 # DataAndCulture
 
 ## Repository Contents
-This repository contains code for the Ben Gurion University "The Art of Analyzing Big Data- The Data Scientist’s Toolbox (372.2.5401)" course project. <b>This code was created with Python(3.10.12), pandas, numpy, seaborn, matplotlib, plotly, nltk and more libraries.<b>
+This repository contains code for the Ben Gurion University "The Art of Analyzing Big Data- The Data Scientist’s Toolbox (372.2.5401)" course project. <b>This code was created with Python(3.10.12), pandas, numpy, seaborn, matplotlib, plotly, nltk and more libraries.<\b>
 
 ## Introduction
 In this work we aim to perform exploratory data analysis with the [Age dataset](https://www.kaggle.com/datasets/imoore/age-dataset).
